@@ -1,3 +1,4 @@
+# java
 *.class
 
 # Package Files #
@@ -13,3 +14,11 @@ build/*
 
 # Exclude gradle 
 .gradle
+
+ # For VIM
+*.swp
+
+# For Eclipse
+.buildpath
+.project
+.settings/
