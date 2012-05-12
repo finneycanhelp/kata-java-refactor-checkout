@@ -4,3 +4,12 @@
 *.jar
 *.war
 *.ear
+
+# Exclude the build directory
+build/*
+ 
+# Exclude OS X folder attributes
+.DS_Store
+
+# Exclude gradle 
+.gradle
